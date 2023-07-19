@@ -1,7 +1,6 @@
 from flask import Flask
 from detection import Detection
 import threading
-import subprocess
 
 app = Flask("Model")
 
