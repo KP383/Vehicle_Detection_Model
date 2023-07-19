@@ -1,7 +1,6 @@
 import time
 import cv2
 import numpy as np
-from argparse import ArgumentParser
 import threading
 
 class Detection:
