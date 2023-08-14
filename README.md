@@ -1,2 +1,2 @@
-# Object_Detection_Model_Deployment
-Object detection model deployment using flask 
+# Vehicle_Detection_Model
+Vehicle detection model deployment using flask 
